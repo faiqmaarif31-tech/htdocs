@@ -35,7 +35,6 @@ Aplikasi ini memiliki beberapa bagian praktikum:
 
 ### 1. Latihan 1 – Menjalankan PHP
 Menampilkan teks dan waktu server untuk memastikan PHP berhasil dijalankan.
-Sreenshot: ![image alt] (
 
 ### 2. Latihan 2 – Variabel, Operator, dan Percabangan
 Menghitung nilai akhir mahasiswa berdasarkan nilai tugas, UTS, dan UAS, kemudian menentukan predikat nilai.
